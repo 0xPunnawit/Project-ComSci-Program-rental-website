@@ -29,7 +29,6 @@
 | 🌐 View     | Thymeleaf + HTML5                                          |
 | 🔐 API      | [SlipOK API](https://slipok.com/) สำหรับตรวจสอบสลิป        |
 | 🖥 IDE       | IntelliJ IDEA                                               |
-| 🧪 Build Tool | Maven                                                      |
 
 ---
 
